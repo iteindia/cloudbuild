@@ -1,2 +1,2 @@
 # cloudbuild
-cloudbuild
+cloudbuild sync
